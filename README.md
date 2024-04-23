@@ -1,7 +1,8 @@
 
 ### Olá! Eu sou o Dev Victor 👋🏼
 
--💻 Trabalho com front-end
+-💻 Estagiando como front-end
+
 -📚 Estudando JavaScript, ReactJS e NodeJS
 
 
