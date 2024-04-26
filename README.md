@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_victorh_031/)
 [![D](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/747637519348400178)
 
-![VictorHMA GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHMA&show_icons=true&theme=dracula)
+![victorhenriquemariano GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhenriquemariano&show_icons=true&theme=dracula)
 
 
 ## Tecnologias do meu dia
@@ -20,6 +20,6 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHMA&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenriquemariano&layout=compact)
 
 Gosto de mais de tecnologia, e estou aprendendo a ser um programador do 0
