@@ -1,10 +1,7 @@
 
 ### Olá! Eu sou o Dev Victor 👋🏼
 
--💻 Estagiando como front-end
-
--📚 Estudando JavaScript, ReactJS e NodeJS
-
+-💻 Dev-Júnior
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_victorh_031/)
 [![D](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/747637519348400178)
