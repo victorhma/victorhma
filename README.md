@@ -1,5 +1,5 @@
 
-### Olá! Eu sou  <Victor /> 👋🏼
+### Olá! Eu sou  Victor 👋🏼
 
 -💻 Dev-Júnior
 
