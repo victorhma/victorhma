@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Dev Victor 👋🏼
+### Olá! Eu sou  <Victor /> 👋🏼
 
 -💻 Dev-Júnior
 
@@ -19,5 +19,3 @@
 </div><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenriquemariano&layout=compact)
-
-Gosto de mais de tecnologia, e estou aprendendo a ser um programador do 0
