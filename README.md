@@ -1,5 +1,5 @@
 
-### Olá! Eu sou  Victor 👋🏼
+### Hi there, My name is Victor! 👋
 
 -💻 Web Developer
 
