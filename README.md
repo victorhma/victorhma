@@ -23,5 +23,10 @@
   <img align="center" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhenriquemariano&layout=compact)
